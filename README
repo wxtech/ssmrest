@@ -3,3 +3,8 @@
 
 使用spring,springmvc,mybatis,maven搭建后台restful风格的服务
 
+简单说明springmvc 使用注解进行httpurl 方法定位 参数匹配 
+
+接收参数和返回参数格式都为json
+
+简单实现PUT POST GET DELETE 请求。
